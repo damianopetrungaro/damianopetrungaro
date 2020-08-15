@@ -5,7 +5,7 @@ I'm an Italian philosopher, ego-less software, and community enthusiast.
 
 I am living in Amsterdam, working for [@messagebird](https://github.com/messagebird/).
 
-Previously, I worked [@hellofresh](https://github.com/hellofresh/), and I'm maintaining [@conventional commits](https://github.com/conventional-commits/) and [@laravel-italia](https://github.com/laravel-italia/).
+Previously, I worked [@hellofresh](https://github.com/hellofresh/), and I'm maintaining [@conventional commits](https://github.com/conventional-commits/) and [@laravel italia](https://github.com/laravel-italia/).
 
 I've been writing code since 2015 and I spent my last two years writing Go;
 I used to write PHP, please don't ask me why 😅.
