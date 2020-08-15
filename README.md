@@ -1,16 +1,18 @@
-### Hi there 👋
+### Ciao 👋
 
+
+I'm an Italian philosopher, ego-less software, and community enthusiast.
+
+I am living in Amsterdam, working for @messagebird.
+
+Previously, I worked @HelloFresh, and I'm maintaining @conventional-commits and @laravel-italia.
+
+I've been writing code since 2015 and I spent my last two years writing Go;
+I used to write PHP, please don't ask me why 😅.
+
+- 💬 Ask me about Domain Driven Design (DDD), Go, Event Sourcing, and food!
+- 📫 How to reach me: @damianopetrungaro
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I play Fortnite, and I am not good at it 🧱🔫
 <!--
 **damianopetrungaro/damianopetrungaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
