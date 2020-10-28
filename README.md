@@ -3,7 +3,7 @@
 
 I'm an Italian philosopher, ego-less software, and community enthusiast.
 
-I am living in Amsterdam, working for [@messagebird](https://github.com/messagebird/).
+I am living in Italy and remote-working for [@messagebird](https://github.com/messagebird/).
 
 Previously, I worked [@hellofresh](https://github.com/hellofresh/), and I'm maintaining [@conventional commits](https://github.com/conventional-commits/) and [@laravel italia](https://github.com/laravel-italia/).
 
