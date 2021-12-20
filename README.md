@@ -3,14 +3,16 @@
 
 I'm an Italian philosopher, ego-less software, and community enthusiast.
 
-I am living in Italy and remote-working for [@messagebird](https://github.com/messagebird/).
+I am living in Italy and remote-working for [@pento](https://github.com/pentohq/).
 
-Previously, I worked [@hellofresh](https://github.com/hellofresh/), and I'm maintaining [@conventional commits](https://github.com/conventional-commits/) and [@laravel italia](https://github.com/laravel-italia/).
+Previously, I worked [@messagebird](https://github.com/messagebird/) and [@hellofresh](https://github.com/hellofresh/), and I'm maintaining [@conventional commits](https://github.com/conventional-commits/).
+
+Former mantainer of the [@laravel italian community](https://github.com/laravel-italia/).
 
 I've been writing code since 2015 and I spent my last two years writing Go;
-I used to write PHP.
+I used to write a lot of PHP.
 
-- 💬 Ask me about Domain Driven Design (DDD), Go, Event Sourcing, and food!
+- 💬 Ask me about domain driven design (DDD), Go, testing, event sourcing, and food!
 - 📫 How to reach me: "damianopetrungaro" on the internet
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I play Fortnite, and I am not good at it 🧱🔫
