@@ -1,7 +1,7 @@
 ### Ciao 👋
 
 
-I'm an Italian philosopher, ego-less software, and community enthusiast.
+I'm an Italian ego-less software engineer, and community enthusiast.
 
 I am living in Italy and remote-working for [@pento](https://github.com/pentohq/).
 
