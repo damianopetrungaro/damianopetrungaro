@@ -9,7 +9,7 @@ Previously, I worked [@messagebird](https://github.com/messagebird/) and [@hello
 
 Former mantainer of the [@laravel italian community](https://github.com/laravel-italia/).
 
-I've been writing code since 2015 and I spent my last two years writing Go;
+I've been writing code since 2015, I solve complex problems and building products using Go;
 I used to write a lot of PHP.
 
 - 💬 Ask me about domain driven design (DDD), Go, testing, event sourcing, and food!
