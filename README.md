@@ -3,7 +3,7 @@
 
 I'm an Italian ego-less software engineer, and community enthusiast.
 
-I am living in Italy and remote-working for [@pento](https://github.com/pentohq/).
+I am living in Italy and remote-working for [@faceit](https://github.com/faceit/).
 
 Previously, I worked [@messagebird](https://github.com/messagebird/) and [@hellofresh](https://github.com/hellofresh/), and I'm maintaining [@conventional commits](https://github.com/conventional-commits/).
 
