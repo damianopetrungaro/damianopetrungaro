@@ -7,7 +7,7 @@ I live in Milan, and I'm currently working as a Staff Engineer [@joinodin](https
 Before my time at Odin,
 I had the pleasure to lead some incredible teams at [@messagebird](https://github.com/messagebird/), [@hellofresh](https://github.com/hellofresh/), and [@pento](https://github.com/pentohq/).
 
-One of my notable contributions is maintaining [@conventional commits](https://github.com/conventional-commits/), a popular convention for structuring commit messages.
+One of my contributions is maintaining [@conventional commits](https://github.com/conventional-commits/), a popular convention for structuring commit messages.
 
 - 💬 If you're into DDD, Go, testing, and more, make sure to check out my [blog](https://damianopetrungaro.com)!
 - 📫 How to reach me: "damianopetrungaro" on the internet
