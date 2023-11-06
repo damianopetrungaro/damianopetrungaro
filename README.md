@@ -2,7 +2,7 @@
 
 I'm **Dam**, an ego-less engineer, [speaker](https://sessionize.com/damianopetrungaro/#events), open-source maintainer, mentor, and all-around community enthusiast hailing from Italy.
 
-I live in Milan, and I'm currently working as a Staff Engineer [@joinodin](https://github.com/joinodin/).
+I live in Milan, and I'm currently working as a Staff Engineer/Engineering Manager [@joinodin](https://github.com/joinodin/).
 
 Before my time at Odin,
 I had the pleasure to lead some incredible teams at [@messagebird](https://github.com/messagebird/), [@hellofresh](https://github.com/hellofresh/), and [@pento](https://github.com/pentohq/).
